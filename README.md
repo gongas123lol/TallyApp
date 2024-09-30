@@ -3,6 +3,8 @@
 Seat counter app made for the PDM class. 
 
 Main page:
+
+
 ![image](https://github.com/user-attachments/assets/d31b0e01-2611-4c22-9a38-d52654fabc1d)
 
 
